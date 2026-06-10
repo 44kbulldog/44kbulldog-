@@ -1,26 +1,14 @@
-# Hi, I'm Delon👋
+# Hi, I'm Delon 👋
 
-## About Me
-- Aspiring Software Developer
-- Learning Python, AI, and Full-Stack Development
-- Building real-world projects
-- Interested in remote opportunities
+Software Developer focused on Python, AI, and building real-world applications.
 
-## Current Projects
-- AI Resume Assistant
-- Portfolio Website
+## 🚀 Projects
+- AI Resume Assistant (Python)
+- Portfolio Website (HTML/CSS/JS)
 - Python Projects Collection
 
-## Skills
-- Python
-- Git & GitHub
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Artificial Intelligence
+## 🛠 Skills
+Python | JavaScript | HTML | CSS | Git | AI Tools
 
-## Goals for 2026
-- Build a strong project portfolio
-- Contribute to open-source projects
-- Land a remote tech role# 44kbulldog-
+## 🎯 Goal
+To land a remote software developer role and grow into AI engineering.
